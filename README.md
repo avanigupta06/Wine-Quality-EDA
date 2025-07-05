@@ -6,7 +6,6 @@ This project performs **Exploratory Data Analysis (EDA)** on the Red Wine Qualit
 
 ## 📂 Dataset Information
 
-- **Source**: UCI Machine Learning Repository  
 - **Type**: Red Wine ("Vinho Verde")  
 - **Instances**: 1,599  
 - **Features**: 11 input variables (physicochemical tests) + 1 output variable (quality score)
