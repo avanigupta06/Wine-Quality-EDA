@@ -77,4 +77,4 @@ To run this notebook locally:
 ```bash
 git clone https://github.com/your-username/Wine-Quality-EDA.git
 cd Wine-Quality-EDA
-jupyter notebook 1.0-WinequalityEDA.ipynb
+jupyter notebook WinequalityEDA.ipynb
